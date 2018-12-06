@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employee>
+	<AJG emp="A" lang = "java">
+	    <number>101</number>
+		<name>PRIYA</name>
+		<salary>4000</salary>
+		<age>22</age>
+	</AJG>
+	<AJG emp="B" lang = "java">
+	    <number>102</number>
+		<name>Alex</name>
+		<salary>14000</salary>
+		<age>25</age>
+	</AJG>
+	<AJG emp="C" lang = "java">
+	    <number>103</number>
+		<name>bond</name>
+		<salary>41000</salary>
+		<age>32</age>
+	</AJG>
+	<AJG emp="D" lang = "java">
+	    <number>104</number>
+		<name>John</name>
+		<salary>13000</salary>
+		<age>22</age>
+	</AJG>
+	<AJG emp="E" lang = "java">
+	    <number>105</number>
+		<name>Peter</name>
+		<salary>4000</salary>
+		<age>32</age>
+	</AJG>
+	<AJG emp="F" lang = "java">
+	    <number>106</number>
+		<name>Rose</name>
+		<salary>40000</salary>
+		<age>42</age>
+	</AJG>
+	<AJG emp="G" lang = "java">
+	    <number>107</number>
+		<name>jack</name>
+		<salary>400000</salary>
+		<age>53</age>
+	</AJG>
+	
+</employee>
